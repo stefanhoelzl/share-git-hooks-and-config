@@ -1,0 +1,1 @@
+echo "About to commit using tracked git hook"
